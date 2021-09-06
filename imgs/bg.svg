@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 515.48 360.86">
+  <defs>
+    <style>
+      .bg-path{fill:#faf2fe;}
+      .bg-circle-bright{fill:#e1c5f4;}
+      .bg-circle-light{fill:#f2e3fc;}
+      .c1{
+        transform: translateX(10px);
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" >
+    <path class="bg-path" d="M884,552c-7.73-51.51-25-56-38.28-82-12.09-23.65-21.84-62.34,12.28-90,53-43,118,1,118,1s103,59,121,62,62,33,117-3,102-33,117-6-19,105-27,121,4,66,17,86,54,82-34,80-352,1-352,1-94.77-1.77-78-94C871,551,887,572,884,552Z" transform="translate(-834.52 -361.14)" ></path>
+    <circle class="bg-circle-bright c1" cx="83.48" cy="163.86" r="20">
+      <animate attributeType="CSS" attributeName="cx" 
+            values="70; 95; 70" dur="120s" repeatCount="indefinite"/>
+      <animate attributeType="CSS" attributeName="cy" 
+      values="155; 170; 155" dur="120s" repeatCount="indefinite"/>
+    </circle>
+    <circle class="bg-circle-bright" cx="49.98" cy="188.36" r="13.5">
+      <animate attributeType="CSS" attributeName="cx" 
+            values="40; 60; 40" dur="80s" repeatCount="indefinite"/>
+      <animate attributeType="CSS" attributeName="cy" 
+            values="180; 200; 180" dur="80s" repeatCount="indefinite"/>
+    </circle>
+    <circle class="bg-circle-bright" cx="51.98" cy="157.36" r="7.5"></circle>
+    <circle class="bg-circle-bright" cx="495.48" cy="298.86" r="20"></circle>
+    <circle class="bg-circle-bright" cx="14.98" cy="62.36" r="7.5"></circle>
+    <circle class="bg-circle-light" cx="139.98" cy="297.36" r="35.5">
+      <animate attributeType="CSS" attributeName="cx" 
+        values="135; 145; 135" dur="10s" repeatCount="indefinite"/>
+      <animate attributeType="CSS" attributeName="cy" 
+          values="297; 305; 297" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle class="bg-circle-light" cx="374.48" cy="325.86" r="24"></circle>
+    <circle class="bg-circle-light" cx="466.48" cy="201.86" r="13"></circle>
+    <circle class="bg-circle-light" cx="369.48" cy="84.86" r="26">
+      <animate attributeType="CSS" attributeName="cx" 
+            values="360; 380; 360;" dur="60s" repeatCount="indefinite"/>
+      <animate attributeType="CSS" attributeName="cy" 
+            values="77; 90; 77;" dur="60s" repeatCount="indefinite"/>
+    </circle>
+    <circle class="bg-circle-light" cx="130.98" cy="15.36" r="12.5">
+      <animate attributeType="CSS" attributeName="cx" 
+            values="120 140 120" dur="60s" repeatCount="indefinite"/>
+      <animate attributeType="CSS" attributeName="cy" 
+            values="10 28 10" dur="60s" repeatCount="indefinite"/>
+    </circle>
+    <circle class="bg-circle-light" cx="90.98" cy="264.36" r="12.5"></circle>
+    <circle class="bg-circle-bright" cx="493.98" cy="119.36" r="12.5"></circle>
+    <circle class="bg-circle-bright" cx="473.98" cy="331.36" r="13.5">
+      <animate attributeType="CSS" attributeName="cx" 
+            values="467; 480; 467" dur="20s" repeatCount="indefinite"/>
+      <animate attributeType="CSS" attributeName="cy" 
+            values="325; 340; 325" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle class="bg-circle-bright" cx="503.98" cy="338.36" r="7.5"></circle>
+  </g>
+</svg>
